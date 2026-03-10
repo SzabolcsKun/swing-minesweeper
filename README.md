@@ -17,6 +17,7 @@ Java Swing: GUI elements and event handling.
 Custom Assets: Original pixel art icons.
 
 Preview:
+![App Screenshot](preview/)
 
 How to use it:
 1. Clone the repo: git clone https://github.com/SzabolcsKun/swing-minesweeper
